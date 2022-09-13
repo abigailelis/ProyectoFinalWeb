@@ -7,10 +7,18 @@
   display: flex;
   width: 100%;
   justify-content: space-between;
+  border: 3px solid red;
   }
-
+.divLogo {
+  }
+#logo {
+  }
+.divLinkscabecera {
+  }
 .navegacion {
   display: flex;
   background: ;
   border-botton
+  }
+#linkApocalipsis {
   }
